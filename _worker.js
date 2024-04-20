@@ -11,8 +11,8 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
+	'https://cf-workers-text2kv-2uw.pages.dev/ip.txt?token=123456', //可参考内容格式 自行搭建。
+	//'https://cf-workers-text2kv-2uw.pages.dev/ipv6.txt?token=123456', //IPv6优选内容格式 自行搭建。
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
@@ -29,7 +29,7 @@ let addressesnotlsapi = [
 
 let DLS = 8;//速度下限
 let addressescsv = [
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv', //iptest测速结果文件。
+	//'https://cf-workers-text2kv-2uw.pages.dev/result.csv?token=123456', //iptest测速结果文件。
 ];
 
 let subconverter = "apiurl.v1.mk"; //在线订阅转换后端，目前使用肥羊的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
