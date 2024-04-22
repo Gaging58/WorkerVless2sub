@@ -49,6 +49,7 @@ let proxyIPs = [
 	'proxyip.aliyun.fxxk.dedyn.io',
 	'proxyip.multacom.fxxk.dedyn.io',
 	'proxyip.vultr.fxxk.dedyn.io',
+	'proxyip.digitalocean.fxxk.dedyn.io',
 ];
 let CMproxyIPs = [
 	//{ proxyIP: "proxyip.fxxk.dedyn.io", type: "HK" },
