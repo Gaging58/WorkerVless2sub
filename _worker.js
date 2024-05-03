@@ -7,6 +7,7 @@ let mytoken= ['123456'];//快速订阅访问入口, 留空则不启动快速订�
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'bestcf.onecf.eu.org:8443#优选官方线路',
 ];
 
 // 设置优选地址api接口
@@ -17,15 +18,15 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'www.visa.com.sg#官方优选域名',
-	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
-	'www.udacity.com',
-        'www.visa.com.tw',
-        'www.udemy.com',
-        'www.visakorea.com',
-        'www.okcupid.com',
-        'download.yunzhongzhuan.com',
+	'www.visa.com.sg#Ga优选域名',
+	'www.wto.org:8080#Ga优选域名',
+	'bestproxy.onecf.eu.org:8080#Ga优选域名',
+	'www.udacity.com:8080#Ga优选域名',
+        'www.visa.com.tw:8080#Ga优选域名',
+        'www.udemy.com:8080#Ga优选域名',
+        'www.visakorea.com:8080#Ga优选域名',
+        'www.okcupid.com:8080#Ga优选域名',
+        '129.151.152.254#AE:8080#Ga优选域名',
 
 ];
 
