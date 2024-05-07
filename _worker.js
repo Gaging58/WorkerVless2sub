@@ -8,8 +8,8 @@ let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'bestcf.onecf.eu.org:8443#优选官方线路',
-	'acsg3.cloudflarest.link#白嫖哥优选'
-	'acsg.cloudflarest.link#白嫖哥优选'
+	'acsg3.cloudflarest.link#bp优选',
+	'acsg.cloudflarest.link#bq优选2',
 ];
 
 // 设置优选地址api接口
