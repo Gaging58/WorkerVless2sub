@@ -24,12 +24,6 @@ let addressesnotls = [
 	'www.visa.com.sg#Ga优选域名',
 	'www.wto.org:8080#Ga优选域名',
 	'bestproxy.onecf.eu.org:8080#Ga优选域名',
-	'www.udacity.com:8080#Ga优选域名',
-        'www.visa.com.tw:8080#Ga优选域名',
-        'www.udemy.com:8080#Ga优选域名',
-        'www.visakorea.com:8080#Ga优选域名',
-        'www.okcupid.com:8080#Ga优选域名',
-        '129.151.152.254#AE:8080#Ga优选域名',
 
 ];
 
