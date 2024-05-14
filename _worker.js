@@ -10,7 +10,6 @@ let addresses = [
 	'bestcf.onecf.eu.org:8443#优选官方线路',
 	'acsg3.cloudflarest.link#bp优选',
 	'acsg.cloudflarest.link#bq优选2',
-	'168.138.53.11#群友反代',
 ];
 
 // 设置优选地址api接口
