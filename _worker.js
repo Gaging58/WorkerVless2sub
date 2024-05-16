@@ -7,6 +7,10 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'aliyu.filegear-sg.me:2096#天诚优选',
+	'jp-8.ixlmo.com:443#JP优选XM'
+	'sh-4-pf.ixlmo.com:44028#TW优选XM'
+        'gd-dx1-pf.ixlmo.com:22880#HK优选XM'
 ];
 
 // 设置优选地址api接口
@@ -20,6 +24,9 @@ let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
+	'aliyu.filegear-sg.me:2095#天诚优选',
+	'hk-1.ixlmo.com:8080#HK优选XM'
+	
 ];
 
 // 设置优选noTLS地址api接口
