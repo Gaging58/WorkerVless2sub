@@ -8,6 +8,8 @@ let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
 	'bestcf.onecf.eu.org:8443#优选官方线路',
+	'acjp2.cloudflarest.link#反代优选2',
+	'acsg3.cloudflarest.link#bp优选',
 ];
 
 // 设置优选地址api接口
@@ -41,7 +43,6 @@ let link = '';
 let edgetunnel = 'ed';
 let RproxyIP = 'false';
 let proxyIPs = [
-	'proxyip.digitalocean.fxxk.dedyn.io',
 	'workers.cloudflare.cyou'
 ];
 let CMproxyIPs = [
